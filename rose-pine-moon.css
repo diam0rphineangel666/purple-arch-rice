@@ -1,0 +1,21 @@
+/* colors by me */
+
+@define-color base            #eeead2;
+@define-color surface         #600275;
+@define-color overlay         #5c4063;
+
+@define-color muted           #ff97ec;
+@define-color subtle          #e86ccf;
+@define-color text            #38013f;
+
+@define-color love            #ff5cb9;
+@define-color gold            #ff85d6;
+@define-color rose            #ba5cdd;
+@define-color pine            #f49efa;
+@define-color foam            #ff61da;
+@define-color iris            #f29fd9;
+
+@define-color highlightLow    #2a283e;
+@define-color highlightMed    #44415a;
+@define-color highlightHigh   #56526e;
+
